@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "products one",
+      "price": 200,
+      "imageUrl": "sample url"
+    }
+  ]
+}
