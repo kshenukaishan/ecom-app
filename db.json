@@ -72,5 +72,25 @@
       "price": 200,
       "imageUrl": "./assets/images/Product_12.jpg"
     }
+  ],
+  "cart": [
+    {
+      "id": 101,
+      "name": "dog",
+      "price": 200,
+      "imageUrl": "./assets/images/Product_01.jpg"
+    },
+    {
+      "id": 102,
+      "name": "dog",
+      "price": 200,
+      "imageUrl": "./assets/images/Product_02.jpg"
+    },
+    {
+      "id": 103,
+      "name": "dog",
+      "price": 200,
+      "imageUrl": "./assets/images/Product_03.jpg"
+    }
   ]
 }
