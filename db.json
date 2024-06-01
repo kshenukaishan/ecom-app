@@ -1,73 +1,73 @@
 {
   "products": [
     {
-      "id": 101,
+      "id": "101",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_01.jpg"
     },
     {
-      "id": 102,
+      "id": "102",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_02.jpg"
     },
     {
-      "id": 103,
+      "id": "103",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_03.jpg"
     },
     {
-      "id": 104,
+      "id": "104",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_04.jpg"
     },
     {
-      "id": 105,
+      "id": "105",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_05.jpg"
     },
     {
-      "id": 106,
+      "id": "106",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_06.jpg"
     },
     {
-      "id": 107,
+      "id": "107",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_07.jpg"
     },
     {
-      "id": 108,
+      "id": "108",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_08.jpg"
     },
     {
-      "id": 109,
+      "id": "109",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_09.jpg"
     },
     {
-      "id": 110,
+      "id": "110",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_10.jpg"
     },
     {
-      "id": 111,
+      "id": "111",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_11.jpg"
     },
     {
-      "id": 112,
+      "id": "112",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_12.jpg"
@@ -75,22 +75,90 @@
   ],
   "cart": [
     {
-      "id": 101,
+      "id": "101",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_01.jpg"
     },
     {
-      "id": 102,
+      "id": "102",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_02.jpg"
     },
     {
-      "id": 103,
+      "id": "103",
       "name": "dog",
       "price": 200,
       "imageUrl": "./assets/images/Product_03.jpg"
+    },
+    {
+      "id": "102",
+      "name": "dog",
+      "price": 200,
+      "imageUrl": "./assets/images/Product_02.jpg"
+    },
+    {
+      "id": "107",
+      "name": "dog",
+      "price": 200,
+      "imageUrl": "./assets/images/Product_07.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "0": {
+        "id": "101",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_01.jpg"
+      },
+      "1": {
+        "id": "102",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_02.jpg"
+      },
+      "2": {
+        "id": "103",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_03.jpg"
+      },
+      "id": "569d"
+    },
+    {
+      "0": {
+        "id": "101",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_01.jpg"
+      },
+      "1": {
+        "id": "102",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_02.jpg"
+      },
+      "2": {
+        "id": "103",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_03.jpg"
+      },
+      "3": {
+        "id": "102",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_02.jpg"
+      },
+      "4": {
+        "id": "107",
+        "name": "dog",
+        "price": 200,
+        "imageUrl": "./assets/images/Product_07.jpg"
+      },
+      "id": "11ac"
     }
   ]
 }

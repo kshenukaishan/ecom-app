@@ -13,6 +13,16 @@
           totalPrice | currency : "USD"
         }}</span>
       </mat-list-item>
+      <mat-list-item class="text-right">
+        <button (click)="clearCartItems()" mat-flat-button color="primary">
+          Clear
+        </button>
+      </mat-list-item>
+      <mat-list-item class="text-right">
+        <button mat-raised-button color="accent" (click)="checkout()">
+          Checkout
+        </button>
+      </mat-list-item>
     </mat-list>
   </mat-card>
 </div>
